@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css')}}">
+    </head>
+        <body>
+            <h1 class="maintitle">TJ's Weather Service</h1>
+            <div class="centercontainer">
+                <h1 class="title1">City</h1>
+                <h1 class="title2">State</h1>
+                <form method="POST">
+                    <div class="city">
+                        <input type="text" name="city">
+                    </div>
+                    <div class="state">
+                        <input type="text" name="state">
+                    </div>
+                    <input class="submitbutton" type="submit" name="submitbutton" value="Get Weather">
+                </form>       
+            </div>
+        
+        </body>
+    
+</html>

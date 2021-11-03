@@ -1,0 +1,90 @@
+html {
+    width: 1920px;
+    height: 1200px;
+    background-image: url('../beauty.jpg');
+}
+
+.centercontainer {
+    position: absolute;
+    background-color:rgb(0, 81, 255);
+    opacity: 85%;
+    width: 25%;
+    height: 37.5%;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 15px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.city {
+    position: absolute;
+    top: 30%;
+    transform: translate(0%, -50%);
+    width: 100%;
+    opacity:1;
+}
+
+.state {
+    position: absolute;
+    top: 60%;
+    transform: translate(0%, -50%);
+    width: 100%;
+    opacity:1;
+}
+
+.city input {
+    position: absolute;
+    width: 40%;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+}
+
+.state input {
+    position: absolute;
+    width: 40%;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+}
+
+.submitbutton {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 30%;
+}
+
+.title1 {
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 40%;
+    font-size: 2vw;
+    margin: 0;
+    text-align: center;
+}
+
+.title2 {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 40%;
+    font-size: 2vw;
+    margin: 0;
+    text-align: center;
+}
+
+.maintitle {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 4vw;
+}
+
+

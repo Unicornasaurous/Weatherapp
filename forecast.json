@@ -1,0 +1,128 @@
+{
+  "This Afternoon": [
+    55,
+    "F",
+    "6 mph",
+    "NE",
+    "https://api.weather.gov/icons/land/day/bkn?size=medium",
+    "Partly Sunny",
+    "Partly sunny, with a high near 55. Northeast wind around 6 mph."
+  ],
+  "Tonight": [
+    41,
+    "F",
+    "6 mph",
+    "NE",
+    "https://api.weather.gov/icons/land/night/bkn/rain,30?size=medium",
+    "Mostly Cloudy then Chance Light Rain",
+    "A chance of rain after 1am. Mostly cloudy, with a low around 41. Northeast wind around 6 mph. Chance of precipitation is 30%."
+  ],
+  "Thursday": [
+    44,
+    "F",
+    "6 mph",
+    "NE",
+    "https://api.weather.gov/icons/land/day/rain,50?size=medium",
+    "Chance Light Rain",
+    "A chance of rain. Mostly cloudy, with a high near 44. Northeast wind around 6 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+  ],
+  "Thursday Night": [
+    33,
+    "F",
+    "3 mph",
+    "N",
+    "https://api.weather.gov/icons/land/night/rain,20/sct?size=medium",
+    "Slight Chance Light Rain then Widespread Frost",
+    "A slight chance of rain before 8pm, then widespread frost. Partly cloudy, with a low around 33. North wind around 3 mph. Chance of precipitation is 20%."
+  ],
+  "Friday": [
+    55,
+    "F",
+    "2 to 8 mph",
+    "N",
+    "https://api.weather.gov/icons/land/day/sct?size=medium",
+    "Widespread Frost then Mostly Sunny",
+    "Widespread frost before 10am. Mostly sunny, with a high near 55. North wind 2 to 8 mph."
+  ],
+  "Friday Night": [
+    36,
+    "F",
+    "5 mph",
+    "NE",
+    "https://api.weather.gov/icons/land/night/sct?size=medium",
+    "Partly Cloudy",
+    "Partly cloudy, with a low around 36."
+  ],
+  "Saturday": [
+    56,
+    "F",
+    "5 to 8 mph",
+    "NE",
+    "https://api.weather.gov/icons/land/day/sct/rain?size=medium",
+    "Mostly Sunny then Slight Chance Light Rain",
+    "A slight chance of rain after 2pm. Mostly sunny, with a high near 56."
+  ],
+  "Saturday Night": [
+    40,
+    "F",
+    "7 mph",
+    "N",
+    "https://api.weather.gov/icons/land/night/rain?size=medium",
+    "Slight Chance Light Rain",
+    "A slight chance of rain. Partly cloudy, with a low around 40."
+  ],
+  "Sunday": [
+    61,
+    "F",
+    "7 mph",
+    "N",
+    "https://api.weather.gov/icons/land/day/rain/sct?size=medium",
+    "Slight Chance Light Rain then Mostly Sunny",
+    "A slight chance of rain before 7am. Mostly sunny, with a high near 61."
+  ],
+  "Sunday Night": [
+    40,
+    "F",
+    "3 mph",
+    "NW",
+    "https://api.weather.gov/icons/land/night/few?size=medium",
+    "Mostly Clear",
+    "Mostly clear, with a low around 40."
+  ],
+  "Monday": [
+    67,
+    "F",
+    "2 to 6 mph",
+    "NW",
+    "https://api.weather.gov/icons/land/day/few?size=medium",
+    "Sunny",
+    "Sunny, with a high near 67."
+  ],
+  "Monday Night": [
+    44,
+    "F",
+    "2 mph",
+    "NW",
+    "https://api.weather.gov/icons/land/night/skc?size=medium",
+    "Clear",
+    "Clear, with a low around 44."
+  ],
+  "Tuesday": [
+    71,
+    "F",
+    "3 mph",
+    "W",
+    "https://api.weather.gov/icons/land/day/few?size=medium",
+    "Sunny",
+    "Sunny, with a high near 71."
+  ],
+  "Tuesday Night": [
+    46,
+    "F",
+    "2 mph",
+    "NW",
+    "https://api.weather.gov/icons/land/night/few?size=medium",
+    "Mostly Clear",
+    "Mostly clear, with a low around 46."
+  ]
+}
