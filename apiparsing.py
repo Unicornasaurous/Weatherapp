@@ -18,8 +18,6 @@ def parsing(city, state):
         print(lat, lng)                                                                                                  #parses through json to retrieve longitude and latitude values
     response = requests.get('https://api.weather.gov/points/%s,%s' % (lat, lng))                                         #weather grid points API(takes in longitude and latitude and gives back grid points and office ID used for weather forecast )
     gridendpoints = response.json()
-    with open('gridpoints.json','w') as r:
-        json.dump(gridendpoints, r, indent=2)
     context = gridendpoints['properties']
     x = context['gridX']
     y = context['gridY']
